@@ -1,0 +1,20 @@
+{
+  "name": "tz44js-rjblog",
+  "version": "1.0.0",
+  "description": "我的《个人简易博客》",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrj971029/tz44js-rjblog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrj971029/tz44js-rjblog/issues"
+  },
+  "homepage": "https://github.com/zrj971029/tz44js-rjblog#readme"
+}
